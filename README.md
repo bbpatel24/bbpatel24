@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhavya Patel
+Hi !(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhavya Patel
 ====================================================================================================================================
 
 Front-end Developer
 -------------------
 
 * 🌍  I'm based in Toronto,ON
-* 🖥️  See my portfolio at [bhavya-patel.ca](http://bhavya-patel.ca)
+* 🖥️  See my portfolio at [http://bhavya-patel-portfolio.netlify.app](http://bhavya-patel-portfolio.netlify.app)
 * ✉️  You can contact me at [bhavyapatel0811@gmail.com](mailto:bhavyapatel0811@gmail.com)
 * 🚀  I'm currently working on [Playstation Clone](http://www.playstation-clone.netlify.app)
 * 🧠  I'm learning MERN Stack
